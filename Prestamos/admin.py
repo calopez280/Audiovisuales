@@ -8,3 +8,5 @@ admin.site.register(Espacio)
 admin.site.register(facultad_equipo)
 admin.site.register(Estado)
 admin.site.register(Reserva)
+
+#inventando un merge
