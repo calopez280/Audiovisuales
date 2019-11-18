@@ -59,3 +59,4 @@ admin.site.register(facultad_equipo, facultad_equipoAdmin)
 admin.site.register(Reserva, ReservaAdmin)
 admin.site.register(Comentarios, ComentariosAdmin)
 admin.site.register(comentario_servicio, comentario_servicioAdmin)
+#
